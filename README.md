@@ -10,5 +10,5 @@
 
 ##### pruebas de edicion de texto
 
-![prueba](prueba1.png)
+![prueba](imagenes/prueba1.png)
 
