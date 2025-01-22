@@ -2,7 +2,7 @@
 
 ##### **Nombre:** Nicolas Pachon Unibio
 
-3. 
+**3)** 
 
 - git add añade todos los archivos presentes en la direccion donde se encuentre el cmd para ser incluidos en el siguiente commit, es decir, "prepara" los archivos para ser añadidos al main.
 
@@ -10,5 +10,5 @@
 
 ##### pruebas de edicion de texto
 
-![prueba](C:\Users\nicolas.pachon-u\Desktop\lab01cvds\CVDSLAB01\prueba1.png)
+![prueba](prueba1.png)
 
